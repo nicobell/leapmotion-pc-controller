@@ -1,0 +1,6 @@
+﻿  TutorialV2LeapMotion.cpp
+C:\Users\nicob\Documents\TutorialV2LeapMotion\TutorialV2LeapMotion\SampleListener.h(519,39): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\nicob\Documents\TutorialV2LeapMotion\TutorialV2LeapMotion\SampleListener.h(582,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  TutorialV2LeapMotion.vcxproj -> C:\Users\nicob\Documents\TutorialV2LeapMotion\x64\Debug\TutorialV2LeapMotion.exe
+  C:\LeapSDK\lib\x64\Leap.dll
+  1 File(s) copied

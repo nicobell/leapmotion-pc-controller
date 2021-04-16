@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TutorialV2LeapMotion", "TutorialV2LeapMotion\TutorialV2LeapMotion.vcxproj", "{1D7ED31F-EC51-43C2-B120-7A0559422308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D7ED31F-EC51-43C2-B120-7A0559422308}.Debug|x64.ActiveCfg = Debug|x64
+		{1D7ED31F-EC51-43C2-B120-7A0559422308}.Debug|x64.Build.0 = Debug|x64
+		{1D7ED31F-EC51-43C2-B120-7A0559422308}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D7ED31F-EC51-43C2-B120-7A0559422308}.Debug|x86.Build.0 = Debug|Win32
+		{1D7ED31F-EC51-43C2-B120-7A0559422308}.Release|x64.ActiveCfg = Release|x64
+		{1D7ED31F-EC51-43C2-B120-7A0559422308}.Release|x64.Build.0 = Release|x64
+		{1D7ED31F-EC51-43C2-B120-7A0559422308}.Release|x86.ActiveCfg = Release|Win32
+		{1D7ED31F-EC51-43C2-B120-7A0559422308}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AD1A741-39EF-4DC5-8338-84C7EDD01AAF}
+	EndGlobalSection
+EndGlobal
